@@ -132,3 +132,7 @@ dmypy.json
 
 # PyCharm
 .idea/
+
+# Old output folders
+/data/out-old
+/data/out-1
