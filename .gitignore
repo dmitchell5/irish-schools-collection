@@ -136,3 +136,6 @@ dmypy.json
 # Old output folders
 /data/out-old
 /data/out-1
+
+# Figures
+/figs/
